@@ -12,3 +12,8 @@ Zodiac application by nodejs, express, html, css/bootstrap and javascript where 
 3. To install dependencies, run npm install.
 4. To run the application for development, run npm run development.
 5. Open localhost:3000 in the browser.
+
+
+## How does this application looks:
+
+![](zodiac.gif)
